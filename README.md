@@ -9,5 +9,4 @@ The criteria provided for this activity included uses of local storage and DOM m
 
 ![day planner main](./Assets/Capture.PNG)
 
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+© 2020
